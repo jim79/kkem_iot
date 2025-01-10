@@ -1,6 +1,6 @@
 ## IoT Systems Engineer
 
-### Motivating Service Stories
+## Motivating Service Stories
 
 ### Smart Farming
 
@@ -42,7 +42,9 @@ Smart forests use IoT and AI to combat threats like deforestation, wildfires, an
 [IoT Sensors and Predictive Maintenance](https://youtu.be/26cnTqheTyA?si=Qgp2YO6culNgzIjx)
 
 
-### Roleplay for IoT Systems Engineer Job Profile: 
+## Roleplay for IoT Systems Engineer Job Profile: 
+
+#### Scenario 1
 
 **Objective:** Simulate real-world IoT tasks to enhance practical engineering skills, decision-making, and teamwork.  
 
@@ -105,3 +107,44 @@ Trainers evaluate performance based on:
 
 **Outcome:**  
 Participants gain hands-on experience in building scalable, secure IoT systems, with improved teamwork and a deeper understanding of real-world IoT challenges.
+
+### Scenario 2
+
+#### **Objective**
+Simulate a critical task in IoT engineering involving system optimization, fostering practical expertise in troubleshooting and innovation within a complex IoT ecosystem.
+
+---
+
+#### **Scenario Setup**
+1. **Project:** Deployment of a smart irrigation system for an agricultural farm.  
+2. **Challenge:** The system is experiencing inconsistent sensor readings and high latency in data processing.  
+
+---
+
+#### **Problem Statement**
+Participants must diagnose and resolve issues affecting the performance of soil moisture sensors and real-time irrigation controls. Constraints include limited power availability, variable network connectivity, and stringent customer requirements for minimal water waste.
+
+---
+
+#### **Collaboration Tasks**
+- **IoT Systems Engineer Role:**  
+   - Analyze data transmission workflows and identify bottlenecks.  
+   - Propose optimized hardware (e.g., low-power sensors, efficient controllers).  
+   - Implement a resilient edge-computing solution to reduce latency.  
+- Work with a **Network Specialist** to evaluate connectivity options and with a **Data Analyst** for advanced predictive modeling.
+
+---
+
+#### **Execution**
+- Conduct a simulated root-cause analysis of system inefficiencies.  
+- Design and test a fault-tolerant architecture using edge computing and efficient routing protocols.  
+- Implement upgrades to enhance reliability and scalability under real-world farm conditions.
+
+---
+
+#### **Outcome**
+- **Technical Mastery:** Skills in edge-computing integration and troubleshooting IoT devices.  
+- **Resilience Strategies:** Handling real-time data issues and implementing robust solutions.  
+- **Collaboration Excellence:** Improved interdisciplinary communication and teamwork in a dynamic environment.  
+
+This scenario strengthens core competencies of IoT Systems Engineers while addressing industry-relevant challenges.
