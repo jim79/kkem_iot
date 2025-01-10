@@ -8,9 +8,9 @@ For example on one vineyard, sensor devices are being used to check weather and 
  
 Nitin Patil, who works at the vineyard, says the AI advice has helped "save 50% of the water" the farm had been using previously.
 
-[Artificial intelligence comes to farming in India |BBC News](https://youtu.be/JeU_EYFH1Jk?si=x2zMg0Et47pJRAXn)(Video)
+[Artificial intelligence comes to farming in India BBC News](https://youtu.be/JeU_EYFH1Jk?si=x2zMg0Et47pJRAXn) (Video)
 
-[These Bengaluru agritech startups are bringing AI and farmers together](https://youtu.be/sPhwu8KQ_Ac?si=V6JJCWPY4ngomA2_)(Video)
+[These Bengaluru agritech startups are bringing AI and farmers together](https://youtu.be/sPhwu8KQ_Ac?si=V6JJCWPY4ngomA2_) (Video)
 
 
 ### The ultimate ‘smart’ device: the jet engine
