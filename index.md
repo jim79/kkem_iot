@@ -372,4 +372,3 @@ To help you understand the responsibilities, required skills, and career growth 
 
 ---
 
-These resources will help you gain a comprehensive understanding of the IoT Systems Engineer role, from job responsibilities to career growth, and assist you in acquiring the necessary skills for your professional journey.
