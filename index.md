@@ -4,7 +4,7 @@
 
 ### Smart Farming
 
-![Smart Farming](images/smart_farm.jpg) ([Image Source:](https://youtu.be/JeU_EYFH1Jk?si=x2zMg0Et47pJRAXn))
+![Smart Farming](images/smart_farm.jpeg) ([Image Source:](https://youtu.be/JeU_EYFH1Jk?si=x2zMg0Et47pJRAXn))
 
 India has used traditional methods of agriculture for generations, but with 1.4 billion people now dependant on the crops farmers produce, some are turning to technology to boost productivity and profit.
 For example on one vineyard, sensor devices are being used to check weather and soil health. Artificial intelligence (AI) can then figure out when it's time to water the crops, add fertiliser and tackle pests.
