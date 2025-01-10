@@ -37,7 +37,7 @@ Smart forests use IoT and AI to combat threats like deforestation, wildfires, an
 
 [Can smart forests save themselves?](https://www.ignitec.com/insights/can-smart-forests-save-themselves/)
 
-4. Predictive Maintenance 
+Predictive Maintenance 
 [IoT Sensors and Predictive Maintenance](https://youtu.be/26cnTqheTyA?si=Qgp2YO6culNgzIjx)
 
 ## Session 2: Sample Job Scenarios
