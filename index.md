@@ -37,7 +37,6 @@ Smart forests use IoT and AI to combat threats like deforestation, wildfires, an
 
 [Can smart forests save themselves?](https://www.ignitec.com/insights/can-smart-forests-save-themselves/)
 
-
 4. Predictive Maintenance 
 [IoT Sensors and Predictive Maintenance](https://youtu.be/26cnTqheTyA?si=Qgp2YO6culNgzIjx)
 
@@ -45,6 +44,9 @@ Smart forests use IoT and AI to combat threats like deforestation, wildfires, an
 Job scenarios simulate real-world job situations, where participants tackle broader, more complex problems that involve strategic decision-making, system design, and industry-specific considerations. Job scenarios often require collaboration, critical thinking, and applying technical knowledge in dynamic, large-scale environments, reflecting the overall responsibilities of an IoT Systems Engineer.
 
 ### Sample Job Scenarios for IoT Systems Engineer
+
+- Job scenarios present a broader and more complex range of real-world challenges, often involving system-level considerations. For example, scenarios like smart city energy optimization or scaling healthcare systems demand strategic decision-making regarding IoT network design, architecture, and large-scale integration.
+- The scenarios are more industry-focused, addressing specific sectors like healthcare, agriculture, and industrial IoT, which requires understanding of domain-specific issues (e.g., predictive maintenance, smart agriculture, or energy-efficient IoT systems).
 
 The following job scenarios simulate real-world challenges that an IoT Systems Engineer might face. These scenarios will help participants practice decision-making, problem-solving, and applying IoT concepts in practical settings.
 
@@ -324,6 +326,11 @@ This scenario offers practical experience in creating life-critical IoT systems 
 
 ## Session 4 : Case Studies/Hands-on Exercise
 The case study-based approach focuses on analyzing and solving specific, often technical problems within a controlled environment, like troubleshooting IoT device issues or optimizing individual components. It emphasizes practical, hands-on problem-solving of defined challenges.
+
+Case Studies:
+- Are focused on technical problem-solving at a more granular level.
+- Included scenarios with a narrower scope, such as device integration, debugging specific IoT issues, and optimizing specific aspects like energy consumption or security.
+- Emphasized tactical decisions (e.g., choosing IoT protocols, securing device communication) and dealing with real-time operational challenges.
 
 ### 1. **Smart City Traffic Management System**  
    - **Details:**  
