@@ -321,40 +321,55 @@ This scenario offers practical experience in creating life-critical IoT systems 
 
 ### Session 8 : Self-Study: Job Role and Career Path (Some Suggestions)
 
-Below are some valuable resources to help you prepare for a career as an IoT Systems Engineer.
+To help you understand the responsibilities, required skills, and career growth for an IoT Systems Engineer, here are the self-study resources:
 
-https://graduate.northeastern.edu/resources/iot-careers-guide/
+### Job Descriptions and Key Skills
+1. **[IoT Engineer Job Description Template (Monster)](https://hiring.monster.com/resources/job-descriptions/computer/iot-engineer-job-description-template/?utm_source=chatgpt.com)**  
+   - Review this template to understand the core responsibilities and skills required for IoT engineers. It covers key competencies such as IoT protocols, networking, security, and programming.
 
-## [Teal: IoT Engineer Career Path](https://www.tealhq.com/career-paths/iot-engineer?utm_source=chatgpt.com)
-An in-depth exploration of the IoT engineer career path, detailing the skills, qualifications, and career progression in the field.
+2. **[IoT Engineer Career Path (Teal)](https://www.tealhq.com/career-paths/iot-engineer?utm_source=chatgpt.com)**  
+   - Explore the IoT engineer career path, detailing entry-level, mid-level, and senior-level responsibilities. Also provides insights into the skills and qualifications you need at each stage.
 
-## [Teal: IoT Engineer Skills in 2025](https://www.tealhq.com/skills/iot-engineer?utm_source=chatgpt.com)
-A comprehensive list of essential skills required for IoT engineers, including programming languages, networking, and security expertise.
+### IoT Trends, Tools, and Best Practices
+3. **[IoT for All](https://www.iotforall.com)**  
+   - A comprehensive resource with articles, news, and case studies focused on the latest trends in IoT, emerging technologies, and best practices in IoT systems engineering.
 
-## [101 Blockchains: Top 10 Essential Skills for IoT Engineers](https://101blockchains.com/top-iot-engineer-skills/?utm_source=chatgpt.com)
-Outlines the top skills needed for IoT engineers, emphasizing the importance of programming, hardware knowledge, and understanding of IoT protocols.
+4. **[IoT Trends and Technologies (LinkedIn Learning)](https://www.linkedin.com/learning/paths/iot-expert?trk=pulse-article_more-articles_related-content-card)**  
+   - LinkedIn Learning offers a learning path for IoT experts, covering topics like IoT architecture, cloud integration, and security protocols.
 
-## [Teal: How to Become an IoT Engineer](https://www.tealhq.com/how-to-become/iot-engineer?utm_source=chatgpt.com)
-A step-by-step guide on becoming an IoT engineer, covering educational requirements, skill development, and career advice.
+5. **[IoT Solutions World Congress](https://www.iotsworldcongress.com)**  
+   - A leading event focused on IoT innovation. Their website features blogs, webinars, and other resources that can help you stay up to date with the latest IoT trends.
 
-## [Space Talent: How to Become an IoT Engineer](https://www.spacetalent.org/resources/how-to-become-an-iot-engineer?utm_source=chatgpt.com)
-Provides insights into the IoT engineering profession, including necessary skills, career paths, and industry applications.
+6. **[IoT Resources by Amazon Web Services (AWS)](https://aws.amazon.com/iot/resources/)**  
+   - AWS offers various tools, whitepapers, and courses related to IoT systems, from beginner to advanced levels. It's especially useful for understanding cloud integration with IoT systems.
 
-## [Second Talent: IoT Engineer Job Description](https://www.secondtalent.com/blog/job-description-templates/iot-engineer/?utm_source=chatgpt.com)
-A job description template outlining the responsibilities and qualifications for an IoT engineer, useful for understanding job expectations.
+### Career Progression Research
+7. **[Career Path in IoT Systems Engineering (Teal)](https://www.tealhq.com/career-paths/iot-engineer?utm_source=chatgpt.com)**  
+   - This resource outlines the various stages of an IoT engineer's career, from starting as a junior IoT engineer to progressing into senior and management roles. It includes insights into the required certifications and additional skills for advancement.
 
-## [Whitecarrot: IoT Engineer Job Description](https://www.whitecarrot.io/job-description/iot-engineer?utm_source=chatgpt.com)
-A sample job description providing an overview of the duties and skills required for an IoT engineer.
+8. **[IoT Engineer Career Guide (101Blockchains)](https://101blockchains.com/starting-career-in-iot/)**  
+   - Provides guidance on getting started in IoT, including a roadmap from entry-level positions to more senior roles like IoT solutions architect, system designer, or even CTO.
 
-## [Booz Allen Hamilton: IoT Systems Engineer](https://careers.boozallen.com/jobs/JobDetail?jobId=104420&utm_source=chatgpt.com)
-Details the responsibilities and qualifications for an IoT Systems Engineer, providing insights into the role's requirements.
+### Professional Forums and Communities
+9. **[IoT for All Community](https://www.iotforall.com/community/)**  
+   - A community of IoT experts sharing advice, job opportunities, and discussions about the latest industry developments. Ideal for networking and learning from experienced professionals.
 
-## [Qualcomm: Principal IoT Systems Engineer](https://careers.qualcomm.com/careers/job/446698598310-principal-iot-systems-engineer-hyderabad-telangana-india?domain=qualcomm.com&utm_source=chatgpt.com)
-Outlines the duties and qualifications for a Principal IoT Systems Engineer, highlighting the advanced skills needed for the role.
+10. **[Embedded Systems LinkedIn Group](https://www.linkedin.com/groups/4071395)**  
+    - Join this group to engage with professionals in embedded systems and IoT. Share knowledge, ask questions, and connect with potential mentors.
 
-## [Monster: IoT Engineer Job Description Template](https://hiring.monster.com/resources/job-descriptions/computer/iot-engineer-job-description-template/?utm_source=chatgpt.com)
-A comprehensive job description template for IoT engineers, useful for both job seekers and employers.
+11. **[IoT Community on Reddit (r/IOT)](https://www.reddit.com/r/IOT/)**  
+    - A space to discuss IoT news, technologies, challenges, and career advice. You can ask questions and interact with experienced engineers and developers.
+
+### Suggested Online Courses and Certifications
+12. **[Coursera: Internet of Things Specialization](https://www.coursera.org/specializations/internet-of-things)**  
+    - A series of courses from the University of California, Irvine, covering IoT systems, architecture, and hardware. Ideal for both beginners and those looking to deepen their expertise.
+
+13. **[Udacity: IoT Nanodegree Program](https://www.udacity.com/course/iot-nanodegree--nd088)**  
+    - A paid program offering in-depth knowledge about building IoT systems and developing applications for the Internet of Things.
+
+14. **[Cisco IoT Certification Program](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/iot.html)**  
+    - Cisco offers certifications tailored to IoT, covering network systems and security which are critical for IoT engineers.
 
 ---
-These resources will help you build the necessary knowledge and competencies to excel as an IoT Systems Engineer.
-```
+
+These resources will help you gain a comprehensive understanding of the IoT Systems Engineer role, from job responsibilities to career growth, and assist you in acquiring the necessary skills for your professional journey.
