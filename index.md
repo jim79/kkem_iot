@@ -148,3 +148,46 @@ Participants must diagnose and resolve issues affecting the performance of soil 
 - **Collaboration Excellence:** Improved interdisciplinary communication and teamwork in a dynamic environment.  
 
 This scenario strengthens core competencies of IoT Systems Engineers while addressing industry-relevant challenges.
+
+### Scenario 3
+
+### Roleplay for IoT Systems Engineer: Healthcare Sector
+
+#### **Objective**
+Simulate the design and deployment of a real-time IoT monitoring system in a healthcare setting, enhancing participants’ skills in system design, security, and patient-centric solutions.
+
+---
+
+#### **Scenario Setup**
+1. **Project:** Implement a smart patient monitoring system for a hospital's intensive care unit (ICU).  
+2. **Challenge:** The system must ensure seamless integration of wearable health devices, real-time alerts, and secure data storage while meeting strict healthcare compliance standards.  
+
+---
+
+#### **Problem Statement**
+Participants are tasked with building an IoT system that collects data from wearable devices (e.g., heart rate monitors, blood pressure sensors) and alerts medical staff in case of anomalies. Challenges include maintaining data privacy, ensuring reliable connectivity, and designing user-friendly dashboards for healthcare professionals.
+
+---
+
+#### **Collaboration Tasks**
+- **IoT Systems Engineer Role:**  
+   - Architect a secure and scalable system to integrate wearable devices with a central server.  
+   - Optimize data transmission protocols to handle real-time monitoring with minimal latency.  
+   - Ensure compliance with healthcare data standards like HIPAA or GDPR.  
+- Collaborate with **Cybersecurity Experts** to safeguard patient data and with **UI/UX Designers** to create intuitive interfaces.
+
+---
+
+#### **Execution**
+- Prototype a system that collects, processes, and visualizes patient data in real-time.  
+- Simulate emergency scenarios, such as detecting abnormal vitals and triggering immediate alerts.  
+- Validate the system’s security measures and compliance readiness through mock audits.  
+
+---
+
+#### **Outcome**
+- **Enhanced Technical Skills:** Expertise in designing secure, real-time IoT solutions tailored for healthcare.  
+- **Compliance Knowledge:** Familiarity with healthcare regulations and data protection protocols.  
+- **Team Collaboration:** Improved coordination with specialists in cybersecurity and user experience design.  
+
+This scenario offers practical experience in creating life-critical IoT systems in the healthcare sector.
